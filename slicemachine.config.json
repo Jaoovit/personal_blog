@@ -1,0 +1,6 @@
+{
+  "libraries": ["./slices"],
+  "adapter": "@slicemachine/adapter-next",
+  "repositoryName": "joao-oliveira-personal-blog",
+  "localSliceSimulatorURL": "http://localhost:3000/slice-simulator"
+}
