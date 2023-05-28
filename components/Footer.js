@@ -37,7 +37,7 @@ const SignUpForm = ({ settings }) => {
               <input
                 name="email"
                 type="email"
-                placeholder="jane.doe@example.com"
+                placeholder="joao.oliveira@example.com"
                 required={true}
                 className="w-full rounded-none border-b border-slate-200 py-3 pl-3 pr-10 text-slate-800 placeholder-slate-400"
               />
